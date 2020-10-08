@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+Implemented sending images 
+To-Do : Sending documents and videos
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
